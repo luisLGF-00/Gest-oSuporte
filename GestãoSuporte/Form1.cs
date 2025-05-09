@@ -16,5 +16,12 @@ namespace GestãoSuporte
         {
             InitializeComponent();
         }
+
+        private void btnEntar(object sender, EventArgs e)
+        {
+
+
+
+        }
     }
 }
