@@ -20,7 +20,7 @@ namespace GestãoSuporte
         private void btnEntar(object sender, EventArgs e)
         {
 
-
+            MessageBox.Show("bem vindo");
 
         }
     }
